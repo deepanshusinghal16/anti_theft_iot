@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+.image{
+    height: 200px;
+    width: auto;
+    border-radius: 20px;
+    
+}
